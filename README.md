@@ -28,6 +28,12 @@ $ python3 -m pip install --no-cache-dir -r requirements.txt
 
 [3] Add optional API keys to enable more data gathering
 ```
+[https://www.virustotal.com/gui/join-us](https://www.virustotal.com/gui/join-us)
+https://hunter.io/users/sign_up
+https://account.shodan.io/register
+https://weleakinfo.com/register
+https://www.linkedin.com/start/join
+https://buckets.grayhatwarfare.com/register
 $ nano keylist.asm
 ```
 
